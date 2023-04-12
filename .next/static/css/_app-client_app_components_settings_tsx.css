@@ -1,0 +1,82 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[10].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[10].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[10].use[5]!./app/components/input-range.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.input-range_input-range__QBkD1 {
+  border: var(--border-in-light);
+  border-radius: 10px;
+  padding: 5px 15px 5px 10px;
+  font-size: 12px;
+  display: flex;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[10].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[10].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[10].use[5]!./app/components/settings.module.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.settings_window-header__w7XTu {
+  padding: 14px 20px;
+  border-bottom: rgba(0, 0, 0, 0.1) 1px solid;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.settings_window-header-title__fmVkZ {
+  max-width: calc(100% - 100px);
+  overflow: hidden;
+}
+.settings_window-header-title__fmVkZ .settings_window-header-main-title__7Ns_y {
+  font-size: 20px;
+  font-weight: bolder;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: block;
+  max-width: 50vw;
+}
+.settings_window-header-title__fmVkZ .settings_window-header-sub-title__KdcZf {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.settings_window-actions__Yr5r3 {
+  display: inline-flex;
+}
+
+.settings_window-action-button__qv6O1 {
+  margin-left: 10px;
+}
+
+.settings_settings__dC7Vo {
+  padding: 20px;
+  overflow: auto;
+}
+
+.settings_settings-title__2ADwu {
+  font-size: 14px;
+  font-weight: bolder;
+}
+
+.settings_settings-pay-img__ILCFY {
+  width: 200px;
+}
+
+.settings_settings-sub-title__m9yD8 {
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.settings_avatar__yApsT {
+  cursor: pointer;
+}
+
+.settings_password-input-container__Rp0VH {
+  max-width: 50%;
+  display: flex;
+  justify-content: flex-end;
+}
+.settings_password-input-container__Rp0VH .settings_password-eye__yIfSb {
+  margin-right: 4px;
+}
+.settings_password-input-container__Rp0VH .settings_password-input__Y6OWC {
+  min-width: 80%;
+}
