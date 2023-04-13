@@ -18,12 +18,14 @@ export const useAccessStore = create<AccessControlStore>()(
   persist(
     (set, get) => ({
       token: "",
-      accessCode: "",
+      accessCode: "esther",
       enabledAccessControl() {
+		  let a = queryMeta("access");
         return queryMeta("access") === "enabled";
       },
       updateCode(code: string) {
-        set((state) => ({ accessCode: code }));
+        // set((state) => ({ accessCode: code }));
+		set((state) => ({ accessCode: 'esther' }));
       },
       updateToken(token: string) {
         set((state) => ({ token }));
